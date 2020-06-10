@@ -11,7 +11,7 @@ declare module 'egg' {
     api: {
       v1: {
         poster: ExportApiV1Poster;
-      },
-    };
+      }
+    }
   }
 }
