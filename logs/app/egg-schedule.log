@@ -1,0 +1,12 @@
+2020-06-05 11:53:27,071 INFO 41128 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59792935ms at 2020-06-06 04:30:00.006
+2020-06-05 11:53:27,072 INFO 41128 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43592928ms at 2020-06-06 00:00:00.000
+2020-06-05 11:53:27,073 INFO 41128 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43593928ms at 2020-06-06 00:00:01.001
+2020-06-05 11:53:26,910 INFO 41130 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-05 11:53:26,910 INFO 41130 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-05 11:53:26,910 INFO 41130 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-05 11:59:44,626 INFO 41611 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59415377ms at 2020-06-06 04:30:00.003
+2020-06-05 11:59:44,627 INFO 41611 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43215373ms at 2020-06-06 00:00:00.000
+2020-06-05 11:59:44,627 INFO 41611 [Timer] /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43216373ms at 2020-06-06 00:00:01.000
+2020-06-05 11:59:44,508 INFO 41612 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-05 11:59:44,508 INFO 41612 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-05 11:59:44,508 INFO 41612 [egg-schedule]: register schedule /Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

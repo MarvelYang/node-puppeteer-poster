@@ -1,0 +1,40 @@
+2020-06-05 12:10:58,214 ERROR 42749 [-/127.0.0.1/-/7ms GET /api/poster/get] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be one of type string, TypedArray, or DataView. Received type undefined
+    at Hash.update (internal/crypto/hash.js:58:11)
+    at Poster.handleSnapshot (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/service/poster.ts:34:47)
+    at Poster.getPoster (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/service/poster.ts:28:31)
+    at PosterController.getPoster (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/controller/api/v1/poster.ts:14:41)
+    at Object.callFn (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+
+pid: 42749
+hostname: localhost
+
+2020-06-05 14:05:56,698 ERROR 42169 nodejs.ClusterClientNoResponseError: client no response in 217602ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 42169
+hostname: localhost
+
+2020-06-05 14:21:21,298 ERROR 43342 [-/127.0.0.1/-/15ms GET /api/poster/get?www.baidu.com] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be one of type string, TypedArray, or DataView. Received type undefined
+    at Hash.update (internal/crypto/hash.js:58:11)
+    at Poster.handleSnapshot (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/service/poster.ts:34:47)
+    at Poster.getPoster (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/service/poster.ts:28:31)
+    at PosterController.getPoster (/Users/ifeng/Documents/workspace/node-puppeteer-poster/app/controller/api/v1/poster.ts:14:41)
+    at Object.callFn (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/ifeng/Documents/workspace/node-puppeteer-poster/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+
+pid: 43342
+hostname: localhost
+

@@ -1,0 +1,529 @@
+2020-06-05 11:40:38,766 INFO 39538 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:40:38,810 INFO 39538 [egg-multipart] stream mode enable
+2020-06-05 11:40:41,295 INFO 39538 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:40:41,300 INFO 39538 [egg-security] use csrf middleware
+2020-06-05 11:40:41,302 INFO 39538 [egg-security] use methodnoallow middleware
+2020-06-05 11:40:41,302 INFO 39538 [egg-security] use noopen middleware
+2020-06-05 11:40:41,304 INFO 39538 [egg-security] use nosniff middleware
+2020-06-05 11:40:41,305 INFO 39538 [egg-security] use xssProtection middleware
+2020-06-05 11:40:41,306 INFO 39538 [egg-security] use xframe middleware
+2020-06-05 11:40:41,306 INFO 39538 [egg-security] use dta middleware
+2020-06-05 11:40:41,307 INFO 39538 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:40:41,371 INFO 39538 [egg:core] dump config after load, 6ms
+2020-06-05 11:40:41,395 INFO 39538 [egg-watcher:application] watcher start success
+2020-06-05 11:40:41,404 INFO 39538 [egg:core] dump config after ready, 6ms
+2020-06-05 11:45:18,874 INFO 39952 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:18,913 INFO 39952 [egg-multipart] stream mode enable
+2020-06-05 11:45:19,089 INFO 39952 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:19,092 INFO 39952 [egg-security] use csrf middleware
+2020-06-05 11:45:19,093 INFO 39952 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:19,094 INFO 39952 [egg-security] use noopen middleware
+2020-06-05 11:45:19,095 INFO 39952 [egg-security] use nosniff middleware
+2020-06-05 11:45:19,097 INFO 39952 [egg-security] use xssProtection middleware
+2020-06-05 11:45:19,097 INFO 39952 [egg-security] use xframe middleware
+2020-06-05 11:45:19,098 INFO 39952 [egg-security] use dta middleware
+2020-06-05 11:45:19,098 INFO 39952 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:21,028 INFO 39952 [egg:core] dump config after load, 11ms
+2020-06-05 11:45:21,052 INFO 39952 [egg-watcher:application] watcher start success
+2020-06-05 11:45:21,061 INFO 39952 [egg:core] dump config after ready, 4ms
+2020-06-05 11:45:22,302 INFO 39962 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:22,340 INFO 39962 [egg-multipart] stream mode enable
+2020-06-05 11:45:22,438 INFO 39962 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:22,440 INFO 39962 [egg-security] use csrf middleware
+2020-06-05 11:45:22,441 INFO 39962 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:22,442 INFO 39962 [egg-security] use noopen middleware
+2020-06-05 11:45:22,442 INFO 39962 [egg-security] use nosniff middleware
+2020-06-05 11:45:22,442 INFO 39962 [egg-security] use xssProtection middleware
+2020-06-05 11:45:22,443 INFO 39962 [egg-security] use xframe middleware
+2020-06-05 11:45:22,443 INFO 39962 [egg-security] use dta middleware
+2020-06-05 11:45:22,443 INFO 39962 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:22,454 INFO 39962 [egg:core] dump config after load, 5ms
+2020-06-05 11:45:22,468 INFO 39962 [egg-watcher:application] watcher start success
+2020-06-05 11:45:22,475 INFO 39962 [egg:core] dump config after ready, 5ms
+2020-06-05 11:45:38,383 INFO 39986 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:38,566 INFO 39986 [egg-multipart] stream mode enable
+2020-06-05 11:45:38,778 INFO 39986 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:38,781 INFO 39986 [egg-security] use csrf middleware
+2020-06-05 11:45:38,782 INFO 39986 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:38,782 INFO 39986 [egg-security] use noopen middleware
+2020-06-05 11:45:38,783 INFO 39986 [egg-security] use nosniff middleware
+2020-06-05 11:45:38,783 INFO 39986 [egg-security] use xssProtection middleware
+2020-06-05 11:45:38,783 INFO 39986 [egg-security] use xframe middleware
+2020-06-05 11:45:38,784 INFO 39986 [egg-security] use dta middleware
+2020-06-05 11:45:38,784 INFO 39986 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:41,499 INFO 39986 [egg:core] dump config after load, 7ms
+2020-06-05 11:45:41,519 INFO 39986 [egg-watcher:application] watcher start success
+2020-06-05 11:45:41,530 INFO 39986 [egg:core] dump config after ready, 7ms
+2020-06-05 11:45:43,402 INFO 40005 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:43,754 INFO 40005 [egg-multipart] stream mode enable
+2020-06-05 11:45:44,252 INFO 40005 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:44,256 INFO 40005 [egg-security] use csrf middleware
+2020-06-05 11:45:44,257 INFO 40005 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:44,258 INFO 40005 [egg-security] use noopen middleware
+2020-06-05 11:45:44,260 INFO 40005 [egg-security] use nosniff middleware
+2020-06-05 11:45:44,260 INFO 40005 [egg-security] use xssProtection middleware
+2020-06-05 11:45:44,261 INFO 40005 [egg-security] use xframe middleware
+2020-06-05 11:45:44,261 INFO 40005 [egg-security] use dta middleware
+2020-06-05 11:45:44,261 INFO 40005 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:46,616 INFO 40005 [egg:core] dump config after load, 5ms
+2020-06-05 11:45:46,640 INFO 40005 [egg-watcher:application] watcher start success
+2020-06-05 11:45:45,763 INFO 40023 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:45,851 INFO 40023 [egg-multipart] stream mode enable
+2020-06-05 11:45:46,009 INFO 40023 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:46,013 INFO 40023 [egg-security] use csrf middleware
+2020-06-05 11:45:46,013 INFO 40023 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:46,014 INFO 40023 [egg-security] use noopen middleware
+2020-06-05 11:45:46,014 INFO 40023 [egg-security] use nosniff middleware
+2020-06-05 11:45:46,015 INFO 40023 [egg-security] use xssProtection middleware
+2020-06-05 11:45:46,015 INFO 40023 [egg-security] use xframe middleware
+2020-06-05 11:45:46,015 INFO 40023 [egg-security] use dta middleware
+2020-06-05 11:45:46,015 INFO 40023 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:49,538 INFO 40023 [egg:core] dump config after load, 28ms
+2020-06-05 11:45:49,582 INFO 40023 [egg-watcher:application] watcher start success
+2020-06-05 11:45:49,597 INFO 40023 [egg:core] dump config after ready, 11ms
+2020-06-05 11:45:50,629 INFO 40041 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:45:50,677 INFO 40041 [egg-multipart] stream mode enable
+2020-06-05 11:45:55,004 INFO 40041 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:45:55,008 INFO 40041 [egg-security] use csrf middleware
+2020-06-05 11:45:55,008 INFO 40041 [egg-security] use methodnoallow middleware
+2020-06-05 11:45:55,009 INFO 40041 [egg-security] use noopen middleware
+2020-06-05 11:45:55,009 INFO 40041 [egg-security] use nosniff middleware
+2020-06-05 11:45:55,010 INFO 40041 [egg-security] use xssProtection middleware
+2020-06-05 11:45:55,010 INFO 40041 [egg-security] use xframe middleware
+2020-06-05 11:45:55,011 INFO 40041 [egg-security] use dta middleware
+2020-06-05 11:45:55,011 INFO 40041 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:45:55,028 INFO 40041 [egg:core] dump config after load, 9ms
+2020-06-05 11:45:55,046 INFO 40041 [egg-watcher:application] watcher start success
+2020-06-05 11:45:55,052 INFO 40041 [egg:core] dump config after ready, 4ms
+2020-06-05 11:46:06,206 INFO 40071 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:06,242 INFO 40071 [egg-multipart] stream mode enable
+2020-06-05 11:46:08,364 INFO 40071 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:08,378 INFO 40071 [egg-security] use csrf middleware
+2020-06-05 11:46:08,379 INFO 40071 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:08,380 INFO 40071 [egg-security] use noopen middleware
+2020-06-05 11:46:08,381 INFO 40071 [egg-security] use nosniff middleware
+2020-06-05 11:46:08,381 INFO 40071 [egg-security] use xssProtection middleware
+2020-06-05 11:46:08,382 INFO 40071 [egg-security] use xframe middleware
+2020-06-05 11:46:08,382 INFO 40071 [egg-security] use dta middleware
+2020-06-05 11:46:08,382 INFO 40071 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:08,435 INFO 40071 [egg:core] dump config after load, 17ms
+2020-06-05 11:46:08,526 INFO 40071 [egg-watcher:application] watcher start success
+2020-06-05 11:46:08,551 INFO 40071 [egg:core] dump config after ready, 21ms
+2020-06-05 11:46:10,234 INFO 40083 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:10,267 INFO 40083 [egg-multipart] stream mode enable
+2020-06-05 11:46:10,351 INFO 40083 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:10,353 INFO 40083 [egg-security] use csrf middleware
+2020-06-05 11:46:10,354 INFO 40083 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:10,354 INFO 40083 [egg-security] use noopen middleware
+2020-06-05 11:46:10,355 INFO 40083 [egg-security] use nosniff middleware
+2020-06-05 11:46:10,355 INFO 40083 [egg-security] use xssProtection middleware
+2020-06-05 11:46:10,355 INFO 40083 [egg-security] use xframe middleware
+2020-06-05 11:46:10,356 INFO 40083 [egg-security] use dta middleware
+2020-06-05 11:46:10,356 INFO 40083 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:10,366 INFO 40083 [egg:core] dump config after load, 5ms
+2020-06-05 11:46:10,378 INFO 40083 [egg-watcher:application] watcher start success
+2020-06-05 11:46:10,385 INFO 40083 [egg:core] dump config after ready, 4ms
+2020-06-05 11:46:17,036 INFO 40096 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:17,350 INFO 40096 [egg-multipart] stream mode enable
+2020-06-05 11:46:18,219 INFO 40096 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:18,228 INFO 40096 [egg-security] use csrf middleware
+2020-06-05 11:46:18,230 INFO 40096 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:18,231 INFO 40096 [egg-security] use noopen middleware
+2020-06-05 11:46:18,232 INFO 40096 [egg-security] use nosniff middleware
+2020-06-05 11:46:18,232 INFO 40096 [egg-security] use xssProtection middleware
+2020-06-05 11:46:18,233 INFO 40096 [egg-security] use xframe middleware
+2020-06-05 11:46:18,233 INFO 40096 [egg-security] use dta middleware
+2020-06-05 11:46:18,233 INFO 40096 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:18,255 INFO 40096 [egg:core] dump config after load, 6ms
+2020-06-05 11:46:18,272 INFO 40096 [egg-watcher:application] watcher start success
+2020-06-05 11:46:18,279 INFO 40096 [egg:core] dump config after ready, 4ms
+2020-06-05 11:46:19,993 INFO 40116 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:20,028 INFO 40116 [egg-multipart] stream mode enable
+2020-06-05 11:46:22,822 INFO 40116 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:22,824 INFO 40116 [egg-security] use csrf middleware
+2020-06-05 11:46:22,825 INFO 40116 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:22,825 INFO 40116 [egg-security] use noopen middleware
+2020-06-05 11:46:22,825 INFO 40116 [egg-security] use nosniff middleware
+2020-06-05 11:46:22,826 INFO 40116 [egg-security] use xssProtection middleware
+2020-06-05 11:46:22,826 INFO 40116 [egg-security] use xframe middleware
+2020-06-05 11:46:22,826 INFO 40116 [egg-security] use dta middleware
+2020-06-05 11:46:22,826 INFO 40116 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:22,837 INFO 40116 [egg:core] dump config after load, 5ms
+2020-06-05 11:46:22,857 INFO 40116 [egg-watcher:application] watcher start success
+2020-06-05 11:46:19,992 INFO 40117 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:20,029 INFO 40117 [egg-multipart] stream mode enable
+2020-06-05 11:46:22,868 INFO 40117 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:22,871 INFO 40117 [egg-security] use csrf middleware
+2020-06-05 11:46:22,872 INFO 40117 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:22,872 INFO 40117 [egg-security] use noopen middleware
+2020-06-05 11:46:22,873 INFO 40117 [egg-security] use nosniff middleware
+2020-06-05 11:46:22,873 INFO 40117 [egg-security] use xssProtection middleware
+2020-06-05 11:46:22,874 INFO 40117 [egg-security] use xframe middleware
+2020-06-05 11:46:22,874 INFO 40117 [egg-security] use dta middleware
+2020-06-05 11:46:22,874 INFO 40117 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:22,907 INFO 40117 [egg:core] dump config after load, 20ms
+2020-06-05 11:46:22,924 INFO 40117 [egg-watcher:application] watcher start success
+2020-06-05 11:46:22,931 INFO 40117 [egg:core] dump config after ready, 4ms
+2020-06-05 11:46:23,862 INFO 40128 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:23,897 INFO 40128 [egg-multipart] stream mode enable
+2020-06-05 11:46:23,983 INFO 40128 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:23,986 INFO 40128 [egg-security] use csrf middleware
+2020-06-05 11:46:23,986 INFO 40128 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:23,987 INFO 40128 [egg-security] use noopen middleware
+2020-06-05 11:46:23,987 INFO 40128 [egg-security] use nosniff middleware
+2020-06-05 11:46:23,988 INFO 40128 [egg-security] use xssProtection middleware
+2020-06-05 11:46:23,988 INFO 40128 [egg-security] use xframe middleware
+2020-06-05 11:46:23,988 INFO 40128 [egg-security] use dta middleware
+2020-06-05 11:46:23,988 INFO 40128 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:23,999 INFO 40128 [egg:core] dump config after load, 5ms
+2020-06-05 11:46:24,011 INFO 40128 [egg-watcher:application] watcher start success
+2020-06-05 11:46:24,018 INFO 40128 [egg:core] dump config after ready, 5ms
+2020-06-05 11:46:29,104 INFO 40137 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 11:46:29,140 INFO 40137 [egg-multipart] stream mode enable
+2020-06-05 11:46:29,236 INFO 40137 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 11:46:29,239 INFO 40137 [egg-security] use csrf middleware
+2020-06-05 11:46:29,240 INFO 40137 [egg-security] use methodnoallow middleware
+2020-06-05 11:46:29,240 INFO 40137 [egg-security] use noopen middleware
+2020-06-05 11:46:29,241 INFO 40137 [egg-security] use nosniff middleware
+2020-06-05 11:46:29,241 INFO 40137 [egg-security] use xssProtection middleware
+2020-06-05 11:46:29,241 INFO 40137 [egg-security] use xframe middleware
+2020-06-05 11:46:29,242 INFO 40137 [egg-security] use dta middleware
+2020-06-05 11:46:29,242 INFO 40137 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 11:46:29,254 INFO 40137 [egg:core] dump config after load, 6ms
+2020-06-05 11:46:29,266 INFO 40137 [egg-watcher:application] watcher start success
+2020-06-05 11:46:29,272 INFO 40137 [egg:core] dump config after ready, 4ms
+2020-06-05 12:03:50,211 INFO 42170 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:03:50,249 INFO 42170 [egg-multipart] stream mode enable
+2020-06-05 12:03:50,360 INFO 42170 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:03:50,363 INFO 42170 [egg-security] use csrf middleware
+2020-06-05 12:03:50,363 INFO 42170 [egg-security] use methodnoallow middleware
+2020-06-05 12:03:50,363 INFO 42170 [egg-security] use noopen middleware
+2020-06-05 12:03:50,364 INFO 42170 [egg-security] use nosniff middleware
+2020-06-05 12:03:50,364 INFO 42170 [egg-security] use xssProtection middleware
+2020-06-05 12:03:50,365 INFO 42170 [egg-security] use xframe middleware
+2020-06-05 12:03:50,365 INFO 42170 [egg-security] use dta middleware
+2020-06-05 12:03:50,365 INFO 42170 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:03:50,381 INFO 42170 [egg:core] dump config after load, 7ms
+2020-06-05 12:03:50,399 INFO 42170 [egg-watcher:application] watcher start success
+2020-06-05 12:03:50,407 INFO 42170 [egg:core] dump config after ready, 5ms
+2020-06-05 12:05:09,196 INFO 42267 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:09,238 INFO 42267 [egg-multipart] stream mode enable
+2020-06-05 12:05:09,377 INFO 42267 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:09,380 INFO 42267 [egg-security] use csrf middleware
+2020-06-05 12:05:09,381 INFO 42267 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:09,382 INFO 42267 [egg-security] use noopen middleware
+2020-06-05 12:05:09,382 INFO 42267 [egg-security] use nosniff middleware
+2020-06-05 12:05:09,383 INFO 42267 [egg-security] use xssProtection middleware
+2020-06-05 12:05:09,383 INFO 42267 [egg-security] use xframe middleware
+2020-06-05 12:05:09,383 INFO 42267 [egg-security] use dta middleware
+2020-06-05 12:05:09,383 INFO 42267 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:09,399 INFO 42267 [egg:core] dump config after load, 6ms
+2020-06-05 12:05:09,413 INFO 42267 [egg-watcher:application] watcher start success
+2020-06-05 12:05:09,420 INFO 42267 [egg:core] dump config after ready, 4ms
+2020-06-05 12:05:15,176 INFO 42287 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:15,227 INFO 42287 [egg-multipart] stream mode enable
+2020-06-05 12:05:15,346 INFO 42287 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:15,350 INFO 42287 [egg-security] use csrf middleware
+2020-06-05 12:05:15,351 INFO 42287 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:15,352 INFO 42287 [egg-security] use noopen middleware
+2020-06-05 12:05:15,352 INFO 42287 [egg-security] use nosniff middleware
+2020-06-05 12:05:15,352 INFO 42287 [egg-security] use xssProtection middleware
+2020-06-05 12:05:15,353 INFO 42287 [egg-security] use xframe middleware
+2020-06-05 12:05:15,353 INFO 42287 [egg-security] use dta middleware
+2020-06-05 12:05:15,353 INFO 42287 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:15,370 INFO 42287 [egg:core] dump config after load, 10ms
+2020-06-05 12:05:15,391 INFO 42287 [egg-watcher:application] watcher start success
+2020-06-05 12:05:15,401 INFO 42287 [egg:core] dump config after ready, 7ms
+2020-06-05 12:05:16,655 INFO 42298 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:16,721 INFO 42298 [egg-multipart] stream mode enable
+2020-06-05 12:05:16,817 INFO 42298 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:16,820 INFO 42298 [egg-security] use csrf middleware
+2020-06-05 12:05:16,821 INFO 42298 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:16,821 INFO 42298 [egg-security] use noopen middleware
+2020-06-05 12:05:16,821 INFO 42298 [egg-security] use nosniff middleware
+2020-06-05 12:05:16,822 INFO 42298 [egg-security] use xssProtection middleware
+2020-06-05 12:05:16,822 INFO 42298 [egg-security] use xframe middleware
+2020-06-05 12:05:16,822 INFO 42298 [egg-security] use dta middleware
+2020-06-05 12:05:16,822 INFO 42298 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:16,832 INFO 42298 [egg:core] dump config after load, 5ms
+2020-06-05 12:05:16,846 INFO 42298 [egg-watcher:application] watcher start success
+2020-06-05 12:05:16,854 INFO 42298 [egg:core] dump config after ready, 6ms
+2020-06-05 12:05:23,152 INFO 42317 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:23,194 INFO 42317 [egg-multipart] stream mode enable
+2020-06-05 12:05:23,306 INFO 42317 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:23,309 INFO 42317 [egg-security] use csrf middleware
+2020-06-05 12:05:23,309 INFO 42317 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:23,310 INFO 42317 [egg-security] use noopen middleware
+2020-06-05 12:05:23,310 INFO 42317 [egg-security] use nosniff middleware
+2020-06-05 12:05:23,311 INFO 42317 [egg-security] use xssProtection middleware
+2020-06-05 12:05:23,311 INFO 42317 [egg-security] use xframe middleware
+2020-06-05 12:05:23,311 INFO 42317 [egg-security] use dta middleware
+2020-06-05 12:05:23,311 INFO 42317 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:23,338 INFO 42317 [egg:core] dump config after load, 13ms
+2020-06-05 12:05:23,361 INFO 42317 [egg-watcher:application] watcher start success
+2020-06-05 12:05:23,373 INFO 42317 [egg:core] dump config after ready, 6ms
+2020-06-05 12:05:27,994 INFO 42329 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:28,259 INFO 42329 [egg-multipart] stream mode enable
+2020-06-05 12:05:31,522 INFO 42329 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:31,524 INFO 42329 [egg-security] use csrf middleware
+2020-06-05 12:05:31,526 INFO 42329 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:31,526 INFO 42329 [egg-security] use noopen middleware
+2020-06-05 12:05:31,527 INFO 42329 [egg-security] use nosniff middleware
+2020-06-05 12:05:31,527 INFO 42329 [egg-security] use xssProtection middleware
+2020-06-05 12:05:31,528 INFO 42329 [egg-security] use xframe middleware
+2020-06-05 12:05:31,528 INFO 42329 [egg-security] use dta middleware
+2020-06-05 12:05:31,528 INFO 42329 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:31,561 INFO 42329 [egg:core] dump config after load, 19ms
+2020-06-05 12:05:31,607 INFO 42329 [egg-watcher:application] watcher start success
+2020-06-05 12:05:29,772 INFO 42349 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:29,815 INFO 42349 [egg-multipart] stream mode enable
+2020-06-05 12:05:32,539 INFO 42349 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:32,542 INFO 42349 [egg-security] use csrf middleware
+2020-06-05 12:05:32,543 INFO 42349 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:32,543 INFO 42349 [egg-security] use noopen middleware
+2020-06-05 12:05:32,544 INFO 42349 [egg-security] use nosniff middleware
+2020-06-05 12:05:32,544 INFO 42349 [egg-security] use xssProtection middleware
+2020-06-05 12:05:32,544 INFO 42349 [egg-security] use xframe middleware
+2020-06-05 12:05:32,544 INFO 42349 [egg-security] use dta middleware
+2020-06-05 12:05:32,544 INFO 42349 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:32,556 INFO 42349 [egg:core] dump config after load, 6ms
+2020-06-05 12:05:32,570 INFO 42349 [egg-watcher:application] watcher start success
+2020-06-05 12:05:32,576 INFO 42349 [egg:core] dump config after ready, 3ms
+2020-06-05 12:05:34,063 INFO 42378 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:34,316 INFO 42378 [egg-multipart] stream mode enable
+2020-06-05 12:05:34,813 INFO 42378 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:34,821 INFO 42378 [egg-security] use csrf middleware
+2020-06-05 12:05:34,822 INFO 42378 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:34,823 INFO 42378 [egg-security] use noopen middleware
+2020-06-05 12:05:34,825 INFO 42378 [egg-security] use nosniff middleware
+2020-06-05 12:05:34,825 INFO 42378 [egg-security] use xssProtection middleware
+2020-06-05 12:05:34,826 INFO 42378 [egg-security] use xframe middleware
+2020-06-05 12:05:34,826 INFO 42378 [egg-security] use dta middleware
+2020-06-05 12:05:34,826 INFO 42378 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:34,854 INFO 42378 [egg:core] dump config after load, 12ms
+2020-06-05 12:05:35,075 INFO 42378 [egg-watcher:application] watcher start success
+2020-06-05 12:05:36,579 INFO 42397 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:36,633 INFO 42397 [egg-multipart] stream mode enable
+2020-06-05 12:05:36,764 INFO 42397 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:36,767 INFO 42397 [egg-security] use csrf middleware
+2020-06-05 12:05:36,768 INFO 42397 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:36,768 INFO 42397 [egg-security] use noopen middleware
+2020-06-05 12:05:36,769 INFO 42397 [egg-security] use nosniff middleware
+2020-06-05 12:05:36,770 INFO 42397 [egg-security] use xssProtection middleware
+2020-06-05 12:05:36,770 INFO 42397 [egg-security] use xframe middleware
+2020-06-05 12:05:36,771 INFO 42397 [egg-security] use dta middleware
+2020-06-05 12:05:36,771 INFO 42397 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:36,786 INFO 42397 [egg:core] dump config after load, 9ms
+2020-06-05 12:05:36,803 INFO 42397 [egg-watcher:application] watcher start success
+2020-06-05 12:05:36,813 INFO 42397 [egg:core] dump config after ready, 6ms
+2020-06-05 12:05:37,341 INFO 42403 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:37,376 INFO 42403 [egg-multipart] stream mode enable
+2020-06-05 12:05:37,464 INFO 42403 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:37,467 INFO 42403 [egg-security] use csrf middleware
+2020-06-05 12:05:37,467 INFO 42403 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:37,468 INFO 42403 [egg-security] use noopen middleware
+2020-06-05 12:05:37,468 INFO 42403 [egg-security] use nosniff middleware
+2020-06-05 12:05:37,468 INFO 42403 [egg-security] use xssProtection middleware
+2020-06-05 12:05:37,469 INFO 42403 [egg-security] use xframe middleware
+2020-06-05 12:05:37,469 INFO 42403 [egg-security] use dta middleware
+2020-06-05 12:05:37,469 INFO 42403 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:37,480 INFO 42403 [egg:core] dump config after load, 5ms
+2020-06-05 12:05:37,496 INFO 42403 [egg-watcher:application] watcher start success
+2020-06-05 12:05:37,505 INFO 42403 [egg:core] dump config after ready, 6ms
+2020-06-05 12:05:42,441 INFO 42421 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:42,492 INFO 42421 [egg-multipart] stream mode enable
+2020-06-05 12:05:42,623 INFO 42421 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:42,626 INFO 42421 [egg-security] use csrf middleware
+2020-06-05 12:05:42,626 INFO 42421 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:42,627 INFO 42421 [egg-security] use noopen middleware
+2020-06-05 12:05:42,627 INFO 42421 [egg-security] use nosniff middleware
+2020-06-05 12:05:42,628 INFO 42421 [egg-security] use xssProtection middleware
+2020-06-05 12:05:42,628 INFO 42421 [egg-security] use xframe middleware
+2020-06-05 12:05:42,628 INFO 42421 [egg-security] use dta middleware
+2020-06-05 12:05:42,628 INFO 42421 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:42,642 INFO 42421 [egg:core] dump config after load, 6ms
+2020-06-05 12:05:42,658 INFO 42421 [egg-watcher:application] watcher start success
+2020-06-05 12:05:42,666 INFO 42421 [egg:core] dump config after ready, 5ms
+2020-06-05 12:05:43,754 INFO 42434 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:05:43,823 INFO 42434 [egg-multipart] stream mode enable
+2020-06-05 12:05:43,915 INFO 42434 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:05:43,918 INFO 42434 [egg-security] use csrf middleware
+2020-06-05 12:05:43,918 INFO 42434 [egg-security] use methodnoallow middleware
+2020-06-05 12:05:43,918 INFO 42434 [egg-security] use noopen middleware
+2020-06-05 12:05:43,919 INFO 42434 [egg-security] use nosniff middleware
+2020-06-05 12:05:43,919 INFO 42434 [egg-security] use xssProtection middleware
+2020-06-05 12:05:43,920 INFO 42434 [egg-security] use xframe middleware
+2020-06-05 12:05:43,920 INFO 42434 [egg-security] use dta middleware
+2020-06-05 12:05:43,920 INFO 42434 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:05:43,934 INFO 42434 [egg:core] dump config after load, 7ms
+2020-06-05 12:05:43,946 INFO 42434 [egg-watcher:application] watcher start success
+2020-06-05 12:05:43,952 INFO 42434 [egg:core] dump config after ready, 4ms
+2020-06-05 12:08:15,757 INFO 42732 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:08:15,799 INFO 42732 [egg-multipart] stream mode enable
+2020-06-05 12:08:15,895 INFO 42732 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:08:15,897 INFO 42732 [egg-security] use csrf middleware
+2020-06-05 12:08:15,898 INFO 42732 [egg-security] use methodnoallow middleware
+2020-06-05 12:08:15,898 INFO 42732 [egg-security] use noopen middleware
+2020-06-05 12:08:15,899 INFO 42732 [egg-security] use nosniff middleware
+2020-06-05 12:08:15,899 INFO 42732 [egg-security] use xssProtection middleware
+2020-06-05 12:08:15,899 INFO 42732 [egg-security] use xframe middleware
+2020-06-05 12:08:15,900 INFO 42732 [egg-security] use dta middleware
+2020-06-05 12:08:15,900 INFO 42732 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:08:15,914 INFO 42732 [egg:core] dump config after load, 6ms
+2020-06-05 12:08:15,927 INFO 42732 [egg-watcher:application] watcher start success
+2020-06-05 12:08:15,934 INFO 42732 [egg:core] dump config after ready, 5ms
+2020-06-05 12:08:17,044 INFO 42735 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:08:17,077 INFO 42735 [egg-multipart] stream mode enable
+2020-06-05 12:08:17,195 INFO 42735 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:08:17,199 INFO 42735 [egg-security] use csrf middleware
+2020-06-05 12:08:17,201 INFO 42735 [egg-security] use methodnoallow middleware
+2020-06-05 12:08:17,201 INFO 42735 [egg-security] use noopen middleware
+2020-06-05 12:08:17,202 INFO 42735 [egg-security] use nosniff middleware
+2020-06-05 12:08:17,202 INFO 42735 [egg-security] use xssProtection middleware
+2020-06-05 12:08:17,203 INFO 42735 [egg-security] use xframe middleware
+2020-06-05 12:08:17,203 INFO 42735 [egg-security] use dta middleware
+2020-06-05 12:08:17,203 INFO 42735 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:08:17,216 INFO 42735 [egg:core] dump config after load, 6ms
+2020-06-05 12:08:17,231 INFO 42735 [egg-watcher:application] watcher start success
+2020-06-05 12:08:17,237 INFO 42735 [egg:core] dump config after ready, 4ms
+2020-06-05 12:08:23,875 INFO 42749 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 12:08:23,958 INFO 42749 [egg-multipart] stream mode enable
+2020-06-05 12:08:24,060 INFO 42749 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 12:08:24,062 INFO 42749 [egg-security] use csrf middleware
+2020-06-05 12:08:24,062 INFO 42749 [egg-security] use methodnoallow middleware
+2020-06-05 12:08:24,063 INFO 42749 [egg-security] use noopen middleware
+2020-06-05 12:08:24,064 INFO 42749 [egg-security] use nosniff middleware
+2020-06-05 12:08:24,065 INFO 42749 [egg-security] use xssProtection middleware
+2020-06-05 12:08:24,065 INFO 42749 [egg-security] use xframe middleware
+2020-06-05 12:08:24,066 INFO 42749 [egg-security] use dta middleware
+2020-06-05 12:08:24,066 INFO 42749 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 12:08:24,077 INFO 42749 [egg:core] dump config after load, 6ms
+2020-06-05 12:08:24,091 INFO 42749 [egg-watcher:application] watcher start success
+2020-06-05 12:08:24,100 INFO 42749 [egg:core] dump config after ready, 6ms
+2020-06-05 14:05:56,691 WARN 42749 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-05 14:12:47,823 INFO 43155 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:12:47,877 INFO 43155 [egg-multipart] stream mode enable
+2020-06-05 14:12:48,078 INFO 43155 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:12:48,082 INFO 43155 [egg-security] use csrf middleware
+2020-06-05 14:12:48,083 INFO 43155 [egg-security] use methodnoallow middleware
+2020-06-05 14:12:48,084 INFO 43155 [egg-security] use noopen middleware
+2020-06-05 14:12:48,085 INFO 43155 [egg-security] use nosniff middleware
+2020-06-05 14:12:48,085 INFO 43155 [egg-security] use xssProtection middleware
+2020-06-05 14:12:48,086 INFO 43155 [egg-security] use xframe middleware
+2020-06-05 14:12:48,087 INFO 43155 [egg-security] use dta middleware
+2020-06-05 14:12:48,087 INFO 43155 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:12:48,104 INFO 43155 [egg:core] dump config after load, 7ms
+2020-06-05 14:12:48,119 INFO 43155 [egg-watcher:application] watcher start success
+2020-06-05 14:12:48,127 INFO 43155 [egg:core] dump config after ready, 5ms
+2020-06-05 14:15:07,640 INFO 43223 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:15:07,681 INFO 43223 [egg-multipart] stream mode enable
+2020-06-05 14:15:07,822 INFO 43223 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:15:07,824 INFO 43223 [egg-security] use csrf middleware
+2020-06-05 14:15:07,826 INFO 43223 [egg-security] use methodnoallow middleware
+2020-06-05 14:15:07,826 INFO 43223 [egg-security] use noopen middleware
+2020-06-05 14:15:07,827 INFO 43223 [egg-security] use nosniff middleware
+2020-06-05 14:15:07,828 INFO 43223 [egg-security] use xssProtection middleware
+2020-06-05 14:15:07,828 INFO 43223 [egg-security] use xframe middleware
+2020-06-05 14:15:07,829 INFO 43223 [egg-security] use dta middleware
+2020-06-05 14:15:07,829 INFO 43223 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:15:07,843 INFO 43223 [egg:core] dump config after load, 6ms
+2020-06-05 14:15:07,859 INFO 43223 [egg-watcher:application] watcher start success
+2020-06-05 14:15:07,865 INFO 43223 [egg:core] dump config after ready, 4ms
+2020-06-05 14:15:18,665 INFO 43233 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:15:18,703 INFO 43233 [egg-multipart] stream mode enable
+2020-06-05 14:15:20,772 INFO 43233 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:15:20,774 INFO 43233 [egg-security] use csrf middleware
+2020-06-05 14:15:20,775 INFO 43233 [egg-security] use methodnoallow middleware
+2020-06-05 14:15:20,775 INFO 43233 [egg-security] use noopen middleware
+2020-06-05 14:15:20,776 INFO 43233 [egg-security] use nosniff middleware
+2020-06-05 14:15:20,777 INFO 43233 [egg-security] use xssProtection middleware
+2020-06-05 14:15:20,777 INFO 43233 [egg-security] use xframe middleware
+2020-06-05 14:15:20,777 INFO 43233 [egg-security] use dta middleware
+2020-06-05 14:15:20,777 INFO 43233 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:15:20,788 INFO 43233 [egg:core] dump config after load, 5ms
+2020-06-05 14:15:20,805 INFO 43233 [egg-watcher:application] watcher start success
+2020-06-05 14:15:20,813 INFO 43233 [egg:core] dump config after ready, 3ms
+2020-06-05 14:15:51,722 INFO 43268 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:15:51,759 INFO 43268 [egg-multipart] stream mode enable
+2020-06-05 14:15:51,855 INFO 43268 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:15:51,858 INFO 43268 [egg-security] use csrf middleware
+2020-06-05 14:15:51,858 INFO 43268 [egg-security] use methodnoallow middleware
+2020-06-05 14:15:51,859 INFO 43268 [egg-security] use noopen middleware
+2020-06-05 14:15:51,859 INFO 43268 [egg-security] use nosniff middleware
+2020-06-05 14:15:51,860 INFO 43268 [egg-security] use xssProtection middleware
+2020-06-05 14:15:51,860 INFO 43268 [egg-security] use xframe middleware
+2020-06-05 14:15:51,860 INFO 43268 [egg-security] use dta middleware
+2020-06-05 14:15:51,860 INFO 43268 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:15:51,872 INFO 43268 [egg:core] dump config after load, 6ms
+2020-06-05 14:15:51,885 INFO 43268 [egg-watcher:application] watcher start success
+2020-06-05 14:15:51,891 INFO 43268 [egg:core] dump config after ready, 4ms
+2020-06-05 14:21:04,327 INFO 43342 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:21:04,409 INFO 43342 [egg-multipart] stream mode enable
+2020-06-05 14:21:07,508 INFO 43342 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:21:07,510 INFO 43342 [egg-security] use csrf middleware
+2020-06-05 14:21:07,511 INFO 43342 [egg-security] use methodnoallow middleware
+2020-06-05 14:21:07,511 INFO 43342 [egg-security] use noopen middleware
+2020-06-05 14:21:07,512 INFO 43342 [egg-security] use nosniff middleware
+2020-06-05 14:21:07,512 INFO 43342 [egg-security] use xssProtection middleware
+2020-06-05 14:21:07,512 INFO 43342 [egg-security] use xframe middleware
+2020-06-05 14:21:07,513 INFO 43342 [egg-security] use dta middleware
+2020-06-05 14:21:07,513 INFO 43342 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:21:07,530 INFO 43342 [egg:core] dump config after load, 12ms
+2020-06-05 14:21:07,543 INFO 43342 [egg-watcher:application] watcher start success
+2020-06-05 14:21:07,549 INFO 43342 [egg:core] dump config after ready, 3ms
+2020-06-05 14:25:21,734 INFO 43441 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:25:21,773 INFO 43441 [egg-multipart] stream mode enable
+2020-06-05 14:25:22,119 INFO 43441 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:25:22,124 INFO 43441 [egg-security] use csrf middleware
+2020-06-05 14:25:22,125 INFO 43441 [egg-security] use methodnoallow middleware
+2020-06-05 14:25:22,125 INFO 43441 [egg-security] use noopen middleware
+2020-06-05 14:25:22,126 INFO 43441 [egg-security] use nosniff middleware
+2020-06-05 14:25:22,126 INFO 43441 [egg-security] use xssProtection middleware
+2020-06-05 14:25:22,127 INFO 43441 [egg-security] use xframe middleware
+2020-06-05 14:25:22,127 INFO 43441 [egg-security] use dta middleware
+2020-06-05 14:25:22,128 INFO 43441 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:25:22,142 INFO 43441 [egg:core] dump config after load, 6ms
+2020-06-05 14:25:22,191 INFO 43441 [egg-watcher:application] watcher start success
+2020-06-05 14:25:22,216 INFO 43441 [egg:core] dump config after ready, 13ms
+2020-06-05 14:25:23,989 INFO 43451 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:25:24,032 INFO 43451 [egg-multipart] stream mode enable
+2020-06-05 14:25:26,733 INFO 43451 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:25:26,736 INFO 43451 [egg-security] use csrf middleware
+2020-06-05 14:25:26,736 INFO 43451 [egg-security] use methodnoallow middleware
+2020-06-05 14:25:26,737 INFO 43451 [egg-security] use noopen middleware
+2020-06-05 14:25:26,737 INFO 43451 [egg-security] use nosniff middleware
+2020-06-05 14:25:26,737 INFO 43451 [egg-security] use xssProtection middleware
+2020-06-05 14:25:26,738 INFO 43451 [egg-security] use xframe middleware
+2020-06-05 14:25:26,738 INFO 43451 [egg-security] use dta middleware
+2020-06-05 14:25:26,738 INFO 43451 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:25:26,749 INFO 43451 [egg:core] dump config after load, 5ms
+2020-06-05 14:25:26,771 INFO 43451 [egg-watcher:application] watcher start success
+2020-06-05 14:25:26,780 INFO 43451 [egg:core] dump config after ready, 6ms
+2020-06-05 14:29:49,807 INFO 43516 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:29:49,852 INFO 43516 [egg-multipart] stream mode enable
+2020-06-05 14:29:51,649 INFO 43516 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:29:51,654 INFO 43516 [egg-security] use csrf middleware
+2020-06-05 14:29:51,655 INFO 43516 [egg-security] use methodnoallow middleware
+2020-06-05 14:29:51,656 INFO 43516 [egg-security] use noopen middleware
+2020-06-05 14:29:51,657 INFO 43516 [egg-security] use nosniff middleware
+2020-06-05 14:29:51,657 INFO 43516 [egg-security] use xssProtection middleware
+2020-06-05 14:29:51,658 INFO 43516 [egg-security] use xframe middleware
+2020-06-05 14:29:51,659 INFO 43516 [egg-security] use dta middleware
+2020-06-05 14:29:51,659 INFO 43516 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:29:51,672 INFO 43516 [egg:core] dump config after load, 5ms
+2020-06-05 14:29:51,686 INFO 43516 [egg-watcher:application] watcher start success
+2020-06-05 14:29:51,692 INFO 43516 [egg:core] dump config after ready, 4ms
+2020-06-05 14:31:02,388 INFO 43545 [egg:logger] init all loggers with options: {"dir":"/Users/ifeng/Documents/workspace/node-puppeteer-poster/logs/node-puppeteer-poster","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node-puppeteer-poster-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-05 14:31:02,426 INFO 43545 [egg-multipart] stream mode enable
+2020-06-05 14:31:02,603 INFO 43545 [egg-static] starting static serve /public/ -> /Users/ifeng/Documents/workspace/node-puppeteer-poster/app/public
+2020-06-05 14:31:02,607 INFO 43545 [egg-security] use csrf middleware
+2020-06-05 14:31:02,608 INFO 43545 [egg-security] use methodnoallow middleware
+2020-06-05 14:31:02,609 INFO 43545 [egg-security] use noopen middleware
+2020-06-05 14:31:02,610 INFO 43545 [egg-security] use nosniff middleware
+2020-06-05 14:31:02,611 INFO 43545 [egg-security] use xssProtection middleware
+2020-06-05 14:31:02,611 INFO 43545 [egg-security] use xframe middleware
+2020-06-05 14:31:02,612 INFO 43545 [egg-security] use dta middleware
+2020-06-05 14:31:02,612 INFO 43545 [egg-security] compose 7 middlewares into one security middleware
+2020-06-05 14:31:02,630 INFO 43545 [egg:core] dump config after load, 8ms
+2020-06-05 14:31:02,644 INFO 43545 [egg-watcher:application] watcher start success
+2020-06-05 14:31:02,654 INFO 43545 [egg:core] dump config after ready, 6ms
