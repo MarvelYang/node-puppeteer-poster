@@ -12,7 +12,6 @@ import { mkdirsSync } from '../../utils/utils';
 export default class PuppenteerHelper {
   async createImg(params) {
     const browser = await launch({
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
       headless: true, // 默认为 true 打开浏览器，设置 false 不打开
       // args: [
       //   '–disable-gpu',
